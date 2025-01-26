@@ -9,3 +9,5 @@ Here I have documented the code I wrote for labs @ KIIT (not all of them were ma
 - Design and Analysis of Algorithms
 - Application Development Lab
 - Artificial Intelligence Lab
+
+Also contains code for an IDE I've been trying to develop for KIIT.
